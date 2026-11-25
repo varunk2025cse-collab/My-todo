@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background-color: #f2f2f2;
+}
+
+header {
+  background-color: #304b79;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.tasks {
+  background-color: white;
+  margin: 30px auto;
+  padding: 25px;
+  width: 350px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px gray;
+}
+
+.tasks li {
+  padding: 10px;
+}
+
+footer {
+  background-color: lightgray;
+  padding: 15px;
+  text-align: center;
+}
